@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7771004
+- 👋 Hi, I’m @QATOURI
 - 👀 I’m interested in creation of everything
 - 🌱 I’m currently learning Python, Javascript, Typescript, CSS, HTML, Vite, React, etc.
 - 💞️ I’m looking to collaborate on translation of documents.
